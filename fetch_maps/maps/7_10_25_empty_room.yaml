@@ -1,0 +1,7 @@
+image: 7_10_25_empty_room.pgm
+resolution: 0.050000
+origin: [-6.176269, -5.885192, 0.000000]
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.196
+

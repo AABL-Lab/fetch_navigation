@@ -1,0 +1,7 @@
+image: 7_8_25_test.pgm
+resolution: 0.050000
+origin: [-3.651376, -5.916717, 0.000000]
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.196
+
