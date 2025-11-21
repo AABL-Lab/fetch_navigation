@@ -1,4 +1,6 @@
 #! /usr/bin/env python
+# waypoint_navigation.py
+# Joey Grossman & Harmeet Singh 2025
 
 import copy
 import actionlib
